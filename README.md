@@ -1,2 +1,2 @@
 # ThreadPool
-Simple thread pool implementation.
+Simple thread pool implementation based on pthreads.
